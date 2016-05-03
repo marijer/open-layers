@@ -1,0 +1,17 @@
+{
+  "name": "map-openlayer3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openlayers": "^3.15.1",
+    "systemjs": "^0.19.27",
+    "traceur": "0.0.108"
+  }
+}
