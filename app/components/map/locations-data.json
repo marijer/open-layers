@@ -1,11 +1,33 @@
 [
 	{
-		"location": "London"
+		"city": "London"
 	},
 	{
-		"location": "Rio de Janeiro"
+		"city": "Rio de Janeiro"
 	},
 	{
-		"location": "Beijing"
+		"city": "Beijing"
+	},
+	{
+		"city": "Reykjavík"
+	},
+	{
+		"city": "Capetown"
+	},
+	{
+		"city": "San Francisco"
+	},
+	{
+		"city": "Cairo"
+	},
+	{	
+		"city": "Colombo"
+	},
+	{	
+		"city": "Bangkok"
+	},
+	{	
+		"city": "Brugge"
 	}
+
 ]

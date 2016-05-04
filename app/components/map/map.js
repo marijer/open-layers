@@ -9,7 +9,7 @@ export default Map = {
 		var _self = this;
 		_self.render();
 
-		Locations.init(function(){
+		Locations.init('components/map/locations-data.json', function(){
 			console.log('-- Loading is done --');
 
 			_self.showLocations();
@@ -20,7 +20,9 @@ export default Map = {
 		var _self = this;
 
 		var myLayer = new ol.layer.Tile({
-			source: new ol.source.OSM()
+			source: new ol.source.Stamen({
+				layer: 'toner-lite'
+			})
 		})
 
 		_self.layers = [myLayer];
@@ -28,7 +30,7 @@ export default Map = {
 		var centerCoords = [-105, 56];
 		var myView = new ol.View({
 			center: centerCoords,
-			zoom: 3
+			zoom: 2
 		})
 
 		_self.map = new ol.Map({
@@ -50,12 +52,13 @@ export default Map = {
 	     var styles = {
 	        geoMarker: new ol.style.Style({
 	          image: new ol.style.Circle({
-	            radius: 7,
+	            radius: 5,
+	            opacity: .7,
 	            snapToPixel: false,
-	            fill: new ol.style.Fill({color: 'black'}),
+	            fill: new ol.style.Fill({color: '#94AAC1'}),
 	            stroke: new ol.style.Stroke({
-	              color: 'white', width: 2
-	            }) 
+	              color: '#FFFFFF', width: 2
+	            })
 	          })
 	        })
 	      };

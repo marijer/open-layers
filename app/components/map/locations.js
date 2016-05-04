@@ -4,9 +4,9 @@ export default Location = {
 
 	locations: '',
 
-	init: function(callback) {
+	init: function(locationPath, callback) {
 		var _self = this;
-		var data = this.getLocationData('components/map/locations-data.json', function(data) {
+		var data = this.getLocationData(locationPath, function(data) {
 			var latLong = _self.getLatLong(data, function(latLongData) {
 				_self.setLocation(latLongData);
 				callback();
@@ -47,12 +47,14 @@ export default Location = {
 			totalNum = locationsArr.length - 1;
 
 		function iterate (item) {
-			var param = 'q=' + item.location +'&format=json&limit=1';
+			var param = 'q=' + item.city +'&format=json&limit=1';
 			_self.getJson(url + param, function(data) {
 				arr.push(data[0]);
 				currentNum++;
 				if(currentNum <= totalNum){
-					iterate(locationsArr[currentNum]);
+					if (locationsArr[currentNum]) {
+						iterate(locationsArr[currentNum]);
+					}
 				} else {
 					callback(arr);
 				}
