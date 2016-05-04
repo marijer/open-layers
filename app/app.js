@@ -1,1 +1,3 @@
-import map from 'components/map/map.js'
+import map from 'components/map/map.js';
+
+map.init();
