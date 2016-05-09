@@ -1,0 +1,88 @@
+[
+	{
+		"city": "London"
+	},
+	{
+		"city": "Rio de Janeiro"
+	},
+	{
+		"city": "Beijing"
+	},
+	{
+		"city": "Reykjavík"
+	},
+	{
+		"city": "Cape town"
+	},
+	{
+		"city": "San Francisco"
+	},
+	{
+		"city": "Cairo"
+	},
+	{	
+		"city": "Colombo",
+		"country": "Sri Lanka"
+	},
+	{	
+		"city": "Bangkok"
+	},
+	{	
+		"city": "Brugge"
+	},
+	{	
+		"city": "Montreal"
+	},
+	{	
+		"city": "Malaga"
+	},
+	{
+		"city": "Maldives"
+	},
+	{
+		"city": "Berlijn"
+	},
+	{
+		"city": "Val Thorens"
+	},
+	{
+		"city": "Parijs"
+	},
+	{
+		"city": "Stockholm"
+	},
+	{
+		"city": "Johannesburg"
+	},
+	{
+		"city": "Kopenhagen",
+		"meta": "met Janny?"
+	},
+	{
+		"city": "Praag"
+	},
+	{
+		"city": "Florance"
+	},
+	{
+		"city": "Milaan"
+	},
+	{
+		"city": "Venetië"
+	},
+	{
+		"city": "Rome"
+	},
+	{
+		"city": "chang Mai"
+	},
+	{
+		"city": "Hong Kong"
+	},
+	{
+		"city": "Amsterdam"
+	},
+	{
+		"city": "Edinbrough"
+	}
+]

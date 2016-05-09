@@ -49,7 +49,9 @@ export default Location = {
 		function iterate (item) {
 			var param = 'q=' + item.city +'&format=json&limit=1';
 			_self.getJson(url + param, function(data) {
-				arr.push(data[0]);
+				if (data[0]) {
+					arr.push(data[0]);
+				}
 				currentNum++;
 				if(currentNum <= totalNum){
 					if (locationsArr[currentNum]) {
