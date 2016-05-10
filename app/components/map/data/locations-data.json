@@ -6,6 +6,9 @@
 		"city": "Rio de Janeiro"
 	},
 	{
+		"city": "brasilia"
+	},
+	{
 		"city": "Beijing"
 	},
 	{
@@ -27,17 +30,25 @@
 	{	
 		"city": "Bangkok"
 	},
-	{	
-		"city": "Brugge"
+	{
+		"city": "Lhasa"
+	},
+	{
+		"city": "Hong Kong"
+	},
+	{
+		"city": "chang mai"
 	},
 	{	
-		"city": "Montreal"
+		"city": "Brugge"
 	},
 	{	
 		"city": "Malaga"
 	},
 	{
-		"city": "Maldives"
+		"city": "Malé",
+		"country": "Republic of Maldives",
+		"meta": "marriage proposal :), maybe an icon?"
 	},
 	{
 		"city": "Berlijn"
@@ -56,7 +67,7 @@
 	},
 	{
 		"city": "Kopenhagen",
-		"meta": "met Janny?"
+		"meta": "Navragen met Janny?"
 	},
 	{
 		"city": "Praag"
@@ -74,6 +85,12 @@
 		"city": "Rome"
 	},
 	{
+		"city": "Verona"
+	},
+	{
+		"city": "Venice"
+	},
+	{
 		"city": "chang Mai"
 	},
 	{
@@ -84,5 +101,45 @@
 	},
 	{
 		"city": "Edinbrough"
+	},
+	{
+		"city": "Tunis"
+	},
+	{
+		"city": "sharm el sheik"
+	},
+	{
+		"city": "Budapest"
+	},
+	{
+		"city": "Barcelona"
+	},
+	{
+		"city": "Florence"
+	},
+	{
+		"city": "Kirchbergen"
+	},
+	{
+		"city": "Vancouver"
+	},
+	{
+		"city": "Colombo"
+	},
+	{
+		"city": "New York"
+	},
+	{
+		"city": "Bangkok"
+	},
+	{
+		"city": "Phuket"
+	},
+	{
+		"city": "la plagne"
+	},
+	{
+		"city": "kroatie",
+		"meta": "waar dan?"
 	}
 ]

@@ -35,7 +35,11 @@ export default Map = {
 			view: myView
 		});
 
-
+		_self.map.on('click', function(evt){
+			_self.map.forEachFeatureAtPixel(evt.pixel, function(feature, layer){
+				console.log(feature.values_.name);
+			})
+		});
 	},
 
 	getCountriesLayer: function() {
@@ -117,13 +121,10 @@ export default Map = {
 		
 		var iconFeature = new ol.Feature({
 		  geometry: new ol.geom.Point(ol.proj.transform(coords, 'EPSG:4326','EPSG:900913')),
-		  name: 'Null Island Two',
-		  population: 4001,
-		  rainfall: 501
+		  name: place.display_name
 		});
 
       return iconFeature;
-
 	}
 }
 
