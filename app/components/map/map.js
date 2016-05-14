@@ -83,7 +83,7 @@ export default Map = {
 		var iconFeatures = [];
 
 		for (var i = 0; i < locations.length; i++ ) {
-			var marker = this.addMarker(locations[i]);
+			var marker = this.getMarker(locations[i]);
 			if (marker) {
 				iconFeatures.push(marker);
 			}
@@ -100,7 +100,13 @@ export default Map = {
 	              color: '#FFFFFF', width: 3
 	            })
 	          })
-	        })
+	        }),
+	        imageMarker: new ol.style.Style({
+		    	image: new ol.style.Icon({
+		    		src: 'components/map/img/circle_border.png',
+		    		opacity: .7
+		    	})
+		    })
 	      };
 
       	var vectorSource = new ol.source.Vector({
@@ -110,13 +116,13 @@ export default Map = {
 
 	     var vectorLayer = new ol.layer.Vector({
 			  source: vectorSource,
-			  style: styles.geoMarker   
+			  style: styles.imageMarker   
 		});
 
 	   this.map.addLayer(vectorLayer);
 	},
 
-	addMarker: function(place) {
+	getMarker: function(place) {
 		var coords = [Number(place.lon), Number(place.lat)];
 		
 		var iconFeature = new ol.Feature({

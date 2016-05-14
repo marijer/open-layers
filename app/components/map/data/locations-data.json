@@ -6,7 +6,7 @@
 		"city": "Rio de Janeiro"
 	},
 	{
-		"city": "brasilia"
+		"city": "Brasília"
 	},
 	{
 		"city": "Beijing"
@@ -37,7 +37,7 @@
 		"city": "Hong Kong"
 	},
 	{
-		"city": "chang mai"
+		"city": "chiang mai"
 	},
 	{	
 		"city": "Brugge"
@@ -91,9 +91,6 @@
 		"city": "Venice"
 	},
 	{
-		"city": "chang Mai"
-	},
-	{
 		"city": "Hong Kong"
 	},
 	{
@@ -137,6 +134,9 @@
 	},
 	{
 		"city": "la plagne"
+	},
+	{
+		"city": "Dubai"
 	},
 	{
 		"city": "kroatie",

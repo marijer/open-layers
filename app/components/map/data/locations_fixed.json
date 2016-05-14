@@ -1,0 +1,875 @@
+[
+  {
+    "place_id": "141878046",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "65606",
+    "boundingbox": [
+      "51.2867602",
+      "51.6918741",
+      "-0.510375",
+      "0.3340155"
+    ],
+    "lat": "51.5073219",
+    "lon": "-0.1276473",
+    "display_name": "London, Greater London, England, United Kingdom",
+    "class": "place",
+    "type": "city",
+    "importance": 0.9754895765402,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144196378",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "57963",
+    "boundingbox": [
+      "-23.6817832",
+      "-20.7631777",
+      "-44.8884938",
+      "-40.673272"
+    ],
+    "lat": "-22.2752761",
+    "lon": "-42.4194149",
+    "display_name": "Rio de Janeiro, Southeast Region, Brazil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.95299032909916,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "141898217",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "59470",
+    "boundingbox": [
+      "-33.8689055",
+      "5.2842873",
+      "-73.9830624",
+      "-28.6341163"
+    ],
+    "lat": "-10.3333332",
+    "lon": "-53.1999999",
+    "display_name": "Brazil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.8779200223542,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "120295",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "25248662",
+    "boundingbox": [
+      "39.7459631",
+      "40.0659631",
+      "116.231248",
+      "116.551248"
+    ],
+    "lat": "39.9059631",
+    "lon": "116.391248",
+    "display_name": "Beijing, Dongcheng District, Beijing, 100010, China",
+    "class": "place",
+    "type": "city",
+    "importance": 0.85790772441967,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "19786451",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2107832620",
+    "boundingbox": [
+      "63.985981",
+      "64.305981",
+      "-22.1022366",
+      "-21.7822366"
+    ],
+    "lat": "64.145981",
+    "lon": "-21.9422366",
+    "display_name": "Reykjavik, Capital Region, Iceland",
+    "class": "place",
+    "type": "city",
+    "importance": 0.62313189350403,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "204118",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "32675806",
+    "boundingbox": [
+      "-34.0889048",
+      "-33.7689048",
+      "18.2572485",
+      "18.5772485"
+    ],
+    "lat": "-33.9289048",
+    "lon": "18.4172485",
+    "display_name": "Kaapstad, City of Cape Town, Western Cape, RSA",
+    "class": "place",
+    "type": "city",
+    "importance": 0.80156811546427,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144097953",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "396487",
+    "boundingbox": [
+      "37.63983",
+      "37.9298443",
+      "-123.1738249",
+      "-122.2817799"
+    ],
+    "lat": "37.7647993",
+    "lon": "-122.4629896",
+    "display_name": "San Francisco City and County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.88836369596997,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "144871310",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5466227",
+    "boundingbox": [
+      "29.7483062",
+      "30.3209168",
+      "31.2204954",
+      "31.9090054"
+    ],
+    "lat": "30.0488185",
+    "lon": "31.2436663",
+    "display_name": "Cairo, Cairo Governorate, Egypt",
+    "class": "place",
+    "type": "city",
+    "importance": 0.79792534689416,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "141830147",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "16132",
+    "boundingbox": [
+      "6.8626355",
+      "6.9811557",
+      "79.82245",
+      "79.8900031"
+    ],
+    "lat": "6.934287",
+    "lon": "79.8532704",
+    "display_name": "Colombo, Colombo District, Western Province, Sri Lanka",
+    "class": "place",
+    "type": "city",
+    "importance": 0.70411219375451,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144145295",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "92277",
+    "boundingbox": [
+      "13.2166667",
+      "13.9551875",
+      "100.3278772",
+      "100.9384449"
+    ],
+    "lat": "13.5859219",
+    "lon": "100.416086601645",
+    "display_name": "กรุงเทพมหานคร, Thailand",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.681686951377,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "164629",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "31219396",
+    "boundingbox": [
+      "29.4968869",
+      "29.8168869",
+      "90.9714249",
+      "91.2914249"
+    ],
+    "lat": "29.6568869",
+    "lon": "91.1314249",
+    "display_name": "Lhasa, Chengguan District, Lhasa, Tibet Autonomous Region, China",
+    "class": "place",
+    "type": "city",
+    "importance": 0.68607161702434,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2599680800",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2833125787",
+    "boundingbox": [
+      "22.1193278",
+      "22.4393278",
+      "114.0028131",
+      "114.3228131"
+    ],
+    "lat": "22.2793278",
+    "lon": "114.1628131",
+    "display_name": "Hong Kong, Central and Western District, Hong Kong Island, Hong Kong, China",
+    "class": "place",
+    "type": "city",
+    "importance": 0.97330257187882,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "507340",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "178056220",
+    "boundingbox": [
+      "18.6305618",
+      "18.9505618",
+      "98.8280909",
+      "99.1480909"
+    ],
+    "lat": "18.7905618",
+    "lon": "98.9880909",
+    "display_name": "Chiang Mai, Chiang Mai Province, Thailand",
+    "class": "place",
+    "type": "city",
+    "importance": 0.66644626653277,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144545703",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2375259",
+    "boundingbox": [
+      "51.1937673",
+      "51.2698893",
+      "3.141044",
+      "3.2502698"
+    ],
+    "lat": "51.2315785",
+    "lon": "3.20809951603418",
+    "display_name": "Brugge, Bruges, Brugge, West Flanders, Flanders, 8000;8200;8310;8380, Belgium",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.74561945746645,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "144846926",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "340746",
+    "boundingbox": [
+      "36.6345688",
+      "36.8940412",
+      "-4.5878886",
+      "-4.2604896"
+    ],
+    "lat": "36.7210805",
+    "lon": "-4.4210409",
+    "display_name": "Málaga, Provincia de Málaga, Andalusia, Spain",
+    "class": "place",
+    "type": "city",
+    "importance": 0.62359836669253,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "143961079",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "192785",
+    "boundingbox": [
+      "10.147811",
+      "25.001084",
+      "-12.2407704",
+      "4.2673828"
+    ],
+    "lat": "16.3700359",
+    "lon": "-2.2900238",
+    "display_name": "Mali",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.70389076566535,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "562219",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240109189",
+    "boundingbox": [
+      "52.3570365",
+      "52.6770365",
+      "13.2288599",
+      "13.5488599"
+    ],
+    "lat": "52.5170365",
+    "lon": "13.3888599",
+    "display_name": "Berlin, Germany",
+    "class": "place",
+    "type": "city",
+    "importance": 0.82214979763087,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "23605474",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2376164369",
+    "boundingbox": [
+      "45.2779109",
+      "45.3179109",
+      "6.5622693",
+      "6.6022693"
+    ],
+    "lat": "45.2979109",
+    "lon": "6.5822693",
+    "display_name": "Saint-Martin-de-Belleville, Val Thorens, Albertville, Savoie, Auvergne-Rhône-Alpes, Metropolitan France, 73440, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.475,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "143540975",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "71525",
+    "boundingbox": [
+      "48.8155755",
+      "48.902156",
+      "2.224122",
+      "2.4697602"
+    ],
+    "lat": "48.85881005",
+    "lon": "2.32003101155031",
+    "display_name": "Parijs, Ile-de-France, Metropolitan France, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.97893459932191,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "124091",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "25929985",
+    "boundingbox": [
+      "59.1651172",
+      "59.4851172",
+      "17.9110935",
+      "18.2310935"
+    ],
+    "lat": "59.3251172",
+    "lon": "18.0710935",
+    "display_name": "Stockholm, Landskapet Södermanland, Stockholms län, Svealand, Sweden",
+    "class": "place",
+    "type": "city",
+    "importance": 0.57740567145506,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "720674",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "261833893",
+    "boundingbox": [
+      "-26.3649999",
+      "-26.0449999",
+      "27.8897222",
+      "28.2097222"
+    ],
+    "lat": "-26.2049999",
+    "lon": "28.0497222",
+    "display_name": "Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, RSA",
+    "class": "place",
+    "type": "city",
+    "importance": 0.77078087733949,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "108093",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "13707878",
+    "boundingbox": [
+      "55.5267243",
+      "55.8467243",
+      "12.4100724",
+      "12.7300724"
+    ],
+    "lat": "55.6867243",
+    "lon": "12.5700724",
+    "display_name": "Copenhagen, Copenhagen Municipality, Capital Region of Denmark, Denmark",
+    "class": "place",
+    "type": "city",
+    "importance": 0.74058286041983,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "142323009",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "439840",
+    "boundingbox": [
+      "49.9419006",
+      "50.1774301",
+      "14.2244355",
+      "14.7067869"
+    ],
+    "lat": "50.0874654",
+    "lon": "14.4212503",
+    "display_name": "Prague, okres Hlavní město Praha, Hlavní město Praha, Prague, Czechia",
+    "class": "place",
+    "type": "city",
+    "importance": 0.76339483510068,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "137654504",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366071200",
+    "boundingbox": [
+      "40.194166",
+      "40.1945697",
+      "44.4814375",
+      "44.4820647"
+    ],
+    "lat": "40.19433685",
+    "lon": "44.4817499471375",
+    "display_name": "Florance, Hrazdan riverbank road, Yerevan, 0033, Armenia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "143771899",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "44915",
+    "boundingbox": [
+      "45.3867381",
+      "45.5358482",
+      "9.0408867",
+      "9.2781103"
+    ],
+    "lat": "45.4667971",
+    "lon": "9.1904984",
+    "display_name": "Milan, Lombardy, Italy",
+    "class": "place",
+    "type": "city",
+    "importance": 0.76585157580298,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144747822",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "43648",
+    "boundingbox": [
+      "44.792033",
+      "46.6806162",
+      "10.6231489",
+      "13.1015177"
+    ],
+    "lat": "45.6476663",
+    "lon": "11.8665254",
+    "display_name": "Veneto, Italy",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.66912378775341,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "143655410",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "41485",
+    "boundingbox": [
+      "41.6556417",
+      "42.1410285",
+      "12.2344985",
+      "12.8557603"
+    ],
+    "lat": "41.8935085",
+    "lon": "12.4825526",
+    "display_name": "Rome, RM, Lazio, Italy",
+    "class": "place",
+    "type": "city",
+    "importance": 0.93686368688662,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144023789",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "44830",
+    "boundingbox": [
+      "45.3503164",
+      "45.5424501",
+      "10.8781758",
+      "11.1253568"
+    ],
+    "lat": "45.4384958",
+    "lon": "10.9924122",
+    "display_name": "Verona, VR, Veneto, Italy",
+    "class": "place",
+    "type": "city",
+    "importance": 0.77273613615972,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "143501926",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "44741",
+    "boundingbox": [
+      "45.2313141",
+      "45.5779793",
+      "12.1667974",
+      "12.5960881"
+    ],
+    "lat": "45.4371908",
+    "lon": "12.3345899",
+    "display_name": "Venice, VE, Veneto, Italy",
+    "class": "place",
+    "type": "city",
+    "importance": 0.84842995109344,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "21375833",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2206967205",
+    "boundingbox": [
+      "27.770898",
+      "27.770998",
+      "-82.6500269",
+      "-82.6499269"
+    ],
+    "lat": "27.770948",
+    "lon": "-82.6499769",
+    "display_name": "Chang Mai, 1100, Central Avenue, Grand Central, Saint Petersburg, Pinellas County, Florida, 33707, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.201,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2599680800",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2833125787",
+    "boundingbox": [
+      "22.1193278",
+      "22.4393278",
+      "114.0028131",
+      "114.3228131"
+    ],
+    "lat": "22.2793278",
+    "lon": "114.1628131",
+    "display_name": "Hong Kong, Central and Western District, Hong Kong Island, Hong Kong, China",
+    "class": "place",
+    "type": "city",
+    "importance": 0.97330257187882,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "145044123",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "271110",
+    "boundingbox": [
+      "52.2781742",
+      "52.4310638",
+      "4.728759",
+      "5.0791623"
+    ],
+    "lat": "52.374436",
+    "lon": "4.8979956033677",
+    "display_name": "Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, North Holland, Netherlands, The Netherlands",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.85967691975333,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3929502",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "424317315",
+    "boundingbox": [
+      "26.3439408",
+      "41.3439408",
+      "1.900138",
+      "16.900138"
+    ],
+    "lat": "33.8439408",
+    "lon": "9.400138",
+    "display_name": "Tunisia",
+    "class": "place",
+    "type": "country",
+    "importance": 0.84789507791365,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "6873367",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "717552352",
+    "boundingbox": [
+      "37.5087896",
+      "37.5088896",
+      "15.1003249",
+      "15.1004249"
+    ],
+    "lat": "37.5088396",
+    "lon": "15.1003749",
+    "display_name": "Sharm El Sheik, 239, Via D'Amico, Picanello-Ognina-Barriera-Canalicchio, Catania, CT, Sicily, 95127, Italy",
+    "class": "place",
+    "type": "house",
+    "importance": 0.301
+  },
+  {
+    "place_id": "142508519",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1244004",
+    "boundingbox": [
+      "47.3496899",
+      "47.6131468",
+      "18.926166",
+      "19.3349258"
+    ],
+    "lat": "47.4983815",
+    "lon": "19.0404707",
+    "display_name": "Budapest, Central Hungary, Közép-Magyarország, Hungary",
+    "class": "place",
+    "type": "city",
+    "importance": 0.86856262971908,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144264307",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "347950",
+    "boundingbox": [
+      "41.3174426",
+      "41.4679428",
+      "2.0524977",
+      "2.2283555"
+    ],
+    "lat": "41.3825596",
+    "lon": "2.1771353",
+    "display_name": "Barcelona, BCN, Catalonia, Spain",
+    "class": "place",
+    "type": "city",
+    "importance": 0.8755299073009,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "143493336",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "42602",
+    "boundingbox": [
+      "43.7258716",
+      "43.8351694",
+      "11.1506053",
+      "11.3391283"
+    ],
+    "lat": "43.7698712",
+    "lon": "11.2555757",
+    "display_name": "Florence, Metropolitan City of Florence, Tuscany, Italy",
+    "class": "place",
+    "type": "city",
+    "importance": 0.84921288801874,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "48233281",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3536034251",
+    "boundingbox": [
+      "48.5999989",
+      "48.6199989",
+      "14.8870801",
+      "14.9070801"
+    ],
+    "lat": "48.6099989",
+    "lon": "14.8970801",
+    "display_name": "Kirchbergen, Gemeinde Groß Gerungs, Zwettl, Lower Austria, 3920, Austria",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.36,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "143845142",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1852574",
+    "boundingbox": [
+      "49.1984452",
+      "49.3161714",
+      "-123.2248817",
+      "-123.0232418"
+    ],
+    "lat": "49.2608944",
+    "lon": "-123.1139382",
+    "display_name": "Vancouver, Greater Vancouver Regional District, British Columbia, Canada",
+    "class": "place",
+    "type": "city",
+    "importance": 0.81766201860676,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "141830147",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "16132",
+    "boundingbox": [
+      "6.8626355",
+      "6.9811557",
+      "79.82245",
+      "79.8900031"
+    ],
+    "lat": "6.934287",
+    "lon": "79.8532704",
+    "display_name": "Colombo, Colombo District, Western Province, Sri Lanka",
+    "class": "place",
+    "type": "city",
+    "importance": 0.70411219375451,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "142043098",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175905",
+    "boundingbox": [
+      "40.477399",
+      "40.917577",
+      "-74.2590899",
+      "-73.7001714"
+    ],
+    "lat": "40.7305991",
+    "lon": "-73.9865811",
+    "display_name": "New York City, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.98292818999099,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144145295",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "92277",
+    "boundingbox": [
+      "13.2166667",
+      "13.9551875",
+      "100.3278772",
+      "100.9384449"
+    ],
+    "lat": "13.5859219",
+    "lon": "100.416086601645",
+    "display_name": "กรุงเทพมหานคร, Thailand",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.681686951377,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "144806718",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2934604",
+    "boundingbox": [
+      "7.2611798",
+      "8.2039074",
+      "98.054567",
+      "98.5688277"
+    ],
+    "lat": "7.715984",
+    "lon": "98.322126372155",
+    "display_name": "Phuket Province, Thailand",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58607831708979,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "142027162",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "161112",
+    "boundingbox": [
+      "43.146304",
+      "43.1714809",
+      "1.0430839",
+      "1.0737342"
+    ],
+    "lat": "43.1571229",
+    "lon": "1.0602138",
+    "display_name": "Plagne, Muret, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, Metropolitan France, 31220, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.63061480553244,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "144869748",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4479752",
+    "boundingbox": [
+      "24.624529",
+      "25.5250676",
+      "54.7153981",
+      "56.2036202"
+    ],
+    "lat": "25.2683521",
+    "lon": "55.2961962",
+    "display_name": "Dubai, United Arab Emirates",
+    "class": "place",
+    "type": "city",
+    "importance": 0.75424381400128,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "144314345",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "214885",
+    "boundingbox": [
+      "42.1748212",
+      "46.555029",
+      "13.201983",
+      "19.4470842"
+    ],
+    "lat": "45.5643442",
+    "lon": "17.0118954",
+    "display_name": "Croatia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.80357738792706,
+    "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]
