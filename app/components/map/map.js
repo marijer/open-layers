@@ -1,6 +1,7 @@
 import ol from 'openlayers';
 import Locations from './locations.js';
 import Download from './download.js';
+import Tooltip from './tooltip.js';
 
 export default Map = {
 	map: null,
@@ -11,6 +12,7 @@ export default Map = {
 
 		_self.render();
 		_self.initLocations();
+		Tooltip.init();
 
 		Download.render();
 	},
@@ -46,11 +48,29 @@ export default Map = {
 			view: myView
 		});
 
-		_self.map.on('click', function(evt){
-			_self.map.forEachFeatureAtPixel(evt.pixel, function(feature, layer){
-				console.log(feature.values_.name);
-			})
+		_self.map.on('click', function(evt) {
+			_self.displayTooltip(evt.pixel);
 		});
+
+		_self.map.on('pointermove', function(evt) {
+       		if (evt.dragging) {
+	          Tooltip.hide();
+	          return;
+	        }
+	        _self.displayTooltip(_self.map.getEventPixel(evt.originalEvent));
+      });
+	},
+
+	displayTooltip: function(pixel) {
+		var feature = this.map.forEachFeatureAtPixel(pixel, function(feature) {
+         	return feature;
+        });
+       
+        if (feature && feature.get('id') === 'markers') {
+			Tooltip.display(pixel, feature);
+        } else {
+        	Tooltip.hide();
+        }
 	},
 
 	getCountriesLayer: function() {
@@ -115,7 +135,8 @@ export default Map = {
 	        imageMarker: new ol.style.Style({
 		    	image: new ol.style.Icon({
 		    		src: 'components/map/img/marker.svg',
-		    		opacity: .7
+		    		opacity: .7,
+		    		snapToPixel: true
 		    	})
 		    })
 	      };
@@ -138,7 +159,8 @@ export default Map = {
 		
 		var iconFeature = new ol.Feature({
 		  geometry: new ol.geom.Point(ol.proj.transform(coords, 'EPSG:4326','EPSG:900913')),
-		  name: place.display_name
+		  name: place.display_name,
+		  id: 'markers',
 		});
 
       return iconFeature;
