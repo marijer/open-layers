@@ -10,3 +10,9 @@ body {
 	height: 100%;
 	border: 1px solid #CCC;
 }
+
+.btn-wrapper {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}

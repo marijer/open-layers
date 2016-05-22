@@ -1,5 +1,6 @@
 import ol from 'openlayers';
 import Locations from './locations.js';
+import Download from './download.js';
 
 export default Map = {
 	map: null,
@@ -7,11 +8,21 @@ export default Map = {
 
 	init: function() {
 		var _self = this;
-		_self.render();
 
+		_self.render();
+		_self.initLocations();
+
+		Download.render();
+	},
+
+	getMap: function() {
+		return this.map;
+	},
+
+	initLocations: function() {
+		var _self = this;
 		Locations.init('components/map/data/locations-data.json', function(){
 			console.log('-- Loading is done --');
-
 			_self.showLocations();
 		});
 	},
@@ -45,7 +56,7 @@ export default Map = {
 	getCountriesLayer: function() {
 		var countryStyle = new ol.style.Style({
 	        fill: new ol.style.Fill({
-	          color: '#F4F5F9'
+	          color: '#E5E8EC'
 	        }),
 	        stroke: new ol.style.Stroke({
 	          color: '#FBFBFC',
@@ -103,7 +114,7 @@ export default Map = {
 	        }),
 	        imageMarker: new ol.style.Style({
 		    	image: new ol.style.Icon({
-		    		src: 'components/map/img/circle_border.png',
+		    		src: 'components/map/img/marker.svg',
 		    		opacity: .7
 		    	})
 		    })
