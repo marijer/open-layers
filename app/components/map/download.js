@@ -19,16 +19,19 @@ var Download = {
 			map = Map.getMap(),
 			exportPNGElement = document.getElementById('export-png');
 
-		var canvasJquery = $('canvas').get(0);
-
 		exportPNGElement.addEventListener('click', function() {
 			map.once('precompose', function(event) {
-				_self.setDPI(canvasJquery,300);
+				_self.setDPI(event.context.canvas,300);
 				});
 
         	map.once('postcompose', function(event) {
 	            var canvas = event.context.canvas;
-	            exportPNGElement.href = canvas.toDataURL('image/png');
+	            var ctx = canvas.getContext('2d');
+
+	            // fix for dataURI limitation Chrome 
+	            ctx.canvas.toBlob(function(blob){
+					exportPNGElement.href = URL.createObjectURL(blob);
+				});
 	          });
 
           map.renderSync();
